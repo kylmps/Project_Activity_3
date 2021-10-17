@@ -43,20 +43,3 @@ def setTextInput(text, text2):
 sample.mainloop()
 
 
-# In[10]:
-
-
-ip
-
-
-# In[3]:
-
-
-uri
-
-
-# In[ ]:
-
-
-
-
